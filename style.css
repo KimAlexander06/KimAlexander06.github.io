@@ -1,0 +1,57 @@
+.mood {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+
+.happy img{
+    width: 300px;
+    height: 200px;
+}
+
+.happy {
+    display: flex;
+}
+
+.sad {
+    display: flex;
+}
+
+.sad img{
+    width: 300px;
+    height: 200px;
+}
+
+h1 {
+    color: #6a994e;
+}
+
+h2 {
+    color: #6a994e;
+}
+
+strong {
+    color: #bc4749;
+}
+
+a {
+    color: #a7c957;
+}
+
+body {
+    background-color: #f2e8cf;
+}
+
+span {
+    font-style: italic;
+}
+
+li {
+    color: #bc4749;
+}
+
+p {
+    color: #386641;
+}
+
